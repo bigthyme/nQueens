@@ -9,7 +9,7 @@ The algorithm operates on the premise that a chessboard's current state can be r
 
 Academic History
 -----------
-> The nQueens problem has been tackled been many academics who try to improve  time complexity of finding ways to place any number of queens (represented by n> ) on that same n x n board size. 
+> The nQueens problem has been tackled been many academics who try to improve  time complexity of finding ways to place any number of queens (represented by n) on that same n x n board size. 
 
 To see a more thorough explanation of the problem and bit solution, check out: [nQueens research](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7113&rep=rep1&type=pdf)
   
